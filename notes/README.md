@@ -1,0 +1,1 @@
+阅读 Github 上这一开源的笔记即可 http://www.ai-start.com/ml2014/
